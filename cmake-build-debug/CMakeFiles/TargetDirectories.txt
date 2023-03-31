@@ -1,0 +1,3 @@
+C:/Users/Sergiu Neag/Desktop/GitHub Projects/C++ Social platform/C++ Social platform2/cmake-build-debug/CMakeFiles/ProiectSDA.dir
+C:/Users/Sergiu Neag/Desktop/GitHub Projects/C++ Social platform/C++ Social platform2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sergiu Neag/Desktop/GitHub Projects/C++ Social platform/C++ Social platform2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
